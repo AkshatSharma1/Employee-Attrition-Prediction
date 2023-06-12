@@ -1,12 +1,6 @@
 # Employee Attrition Prediction Using Machine Learning
 
-This project was created as a part of CSE343, Machine Learning Course at IIIT Delhi. 
-
-### Group Members
-1. [Aastha](https://github.com/aastha985 "GitHub Profile")
-2. [Aditi Sejal](https://github.com/asejal "GitHub Profile")
-3. [Vaibhav Soni](https://github.com/vaibhav2808 "GitHub Profile")
-4. [Samad Shahid](https://github.com/SamadShahid "GitHub Profile")
+This project was created as a partf Major Project at MAIT, New Delhi 
 
 ## Introduction
 
@@ -92,10 +86,3 @@ Jupyter Notebook can be run using Google Colab or locally using Anaconda Navigat
 4. [Seaborn](https://seaborn.pydata.org/)
 5. [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
-## Report 
-![1](Images/Report-1.jpg)
-![2](Images/Report-2.jpg)
-![3](Images/Report-3.jpg)
-![4](Images/Report-4.jpg)
-![5](Images/Report-5.jpg)
-![6](Images/Report-6.jpg)
